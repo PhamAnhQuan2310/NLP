@@ -1,6 +1,6 @@
 # Ứng dụng Xử Lý Ngôn Ngữ Tự Nhiên (NLP)
 
-Đây là một ứng dụng Web xây dựng bằng **Streamlit**, hỗ trợ xử lý văn bản từ A đến Z với các chức năng:
+Đây là một ứng dụng Web xây dựng bằng **Streamlit**, hỗ trợ xử lý xủ lý ngôn ngữ tự nhiên với các chức năng:
 - Nhập dữ liệu từ tay, file CSV hoặc từ trang web
 - Tăng cường và tiền xử lý dữ liệu văn bản
 - Vector hóa và nhúng văn bản bằng nhiều kỹ thuật 
@@ -62,5 +62,6 @@
 
 ### 8. Chatbot cầu thủ bóng đá
 
+## chạy ứng dụng: streamlit run BTCaNhan.py
 
 
